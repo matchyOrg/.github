@@ -7,6 +7,7 @@ We really hope that this project brings you joy and helps you make fun memories 
 
 <br><br>
 
+
 ## 👨‍💻 The Devs
 The development team is currently composed of the following main contributors:
 
@@ -37,14 +38,13 @@ He learned a lot from the more experienced developers, kept the bigger picture a
 
 Daniel has the most experience in the software industry from the people in our team. He developed essential features reliably and with high quality.
 
-
 <br><br>
+
 
 ## 💪 Other Contributors
 Other contributors include:
 
 ### Jakob [@jakobsohm](https://jakobsohm.at/)
 `🟢 logo designer`
-
 
 Jakob used his magical graphic design skills and made us a neat looking logo.

@@ -29,7 +29,7 @@ He helped us get started with the project and consistently managed all dependenc
 ### Yahya [@sueszli](https://github.com/sueszli)
 `🟢 project manager`
 
-Yahya had the initial idea for this project and this is his second attempt to implement this application (he previously developed [DateWatch](https://github.com/sueszli/datewatch)).
+Yahya had the initial idea for this project and this is his second attempt based on a previous iteration called [DateWatch](https://github.com/sueszli/datewatch).
 
 After defining the necessary features for this MVP and designing the mockups on Figma, Yahya gathered all his friends to team up and kick off.
 He learned a lot from the more experienced developers, kept the bigger picture at all times and managed the project effectively.

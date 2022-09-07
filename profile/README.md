@@ -23,5 +23,5 @@ The development team is currently composed of the following main contributors:
 ## 💪 Other Contributors
 Other contributors include:
 
-### [Jakob Sohm](https://jakobsohm.at/)
+### Jakob [@jakobsohm](https://jakobsohm.at/)
 Jakob blessed us with his magical graphic design skills and made us a neat looking logo.

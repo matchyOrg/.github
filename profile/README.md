@@ -27,7 +27,7 @@ He is the teams frontend Sensei because he was really patient with newcomers and
 He helped us get started with the project and consistently managed all dependencies so the build size stays small and the application stays fast. He also found many really elegant and solutions to our UI / UX problems.
 
 ### Yahya [@sueszli](https://github.com/sueszli)
-`🟢 project manager`
+`🟢 frontend contributor, project manager`
 
 Yahya had the initial idea for this project and this is his second attempt based on a previous iteration called [DateWatch](https://github.com/sueszli/datewatch).
 

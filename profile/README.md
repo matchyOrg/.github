@@ -24,7 +24,7 @@ He took the responsibility of designing the application's architecture and imple
 Stefan is the most knowledgeable frontend developer in the team. He reviewed every single of our pull requests and helped us get a better understanding of advanced Vue.js concepts.
 He is the teams frontend Sensei because he was really patient with newcomers and taught them everything they needed to know about Vue.js.
 
-He helped us get started with the project and consistently managed all dependencies so the build size stays small and the application stays fast. He always found the most elegant and solutions to our UI / UX problems.
+He helped us get started with the project and consistently managed all dependencies so the build size stays small and the application stays fast. He also found many really elegant and solutions to our UI / UX problems.
 
 ### Yahya [@sueszli](https://github.com/sueszli)
 `🟢 project manager`

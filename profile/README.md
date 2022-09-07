@@ -17,6 +17,7 @@ The development team is currently composed of the following main contributors:
 Marco implemented over 80% of the application just by himself.
 
 He took the responsibility of designing the application's architecture and implementing the backend entirely by himself. He first explained his ideas clearly with multiple process diagrams and database schemas that helped us understand the real time processes that this application is built on and then proceeded to implement the Postgres database, Postgres CRON jobs, API via Supabase, Lambda functions, RPCs, DB Constraints etc. After that he almost single handedly implemented all real time features in the frontend. Awesome stuff!
+<br>
 
 ### Stefan [@stefnotch](https://github.com/stefnotch)
 `🟢 frontend contributor, reviewer`
@@ -24,6 +25,7 @@ He took the responsibility of designing the application's architecture and imple
 Stefan is the most knowledgeable frontend developer in the team. He reviewed every single of our pull requests and helped us get a better understanding of advanced Vue.js concepts.
 
 He helped us get started with the project and consistently managed all dependency so the build size stays small and the application stays fast. He always found the most elegant and solutions to our UI / UX problems.
+<br>
 
 ### Yahya [@sueszli](https://github.com/sueszli)
 `🟢 project manager`
@@ -32,6 +34,7 @@ Yahya had the initial idea for this project and this is his second attempt to im
 
 After defining the necessary features for this MVP and designing the mockups on Figma, Yahya gathered all his friends to team up and kick off.
 He learned a lot from the more experienced developers, kept the bigger picture at all times and managed the project effectively.
+<br>
 
 ### Daniel [@Fancy11111](https://github.com/Fancy11111)
 `🟢 frontend contributor`

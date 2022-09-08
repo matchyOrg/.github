@@ -1,5 +1,5 @@
 ## Hi there 👋
-We're a team commited to creating the ultimate speed dating experience with our open source web app [Matchy](https://github.com/matchyOrg/matchy).
+We're a team commited to creating the ultimate speed dating experience with our free open source web app [Matchy](https://github.com/matchyOrg/matchy).
 
 Since our app is still in development feel free to put it on your watchlist / give it a star so you stay up to date with the development process!
 
@@ -34,7 +34,7 @@ Yahya had the initial idea for this project and this is his second attempt based
 After defining the necessary features for this MVP and designing the mockups on Figma, Yahya gathered all his friends to team up and kick off.
 He learned a lot from the more experienced developers, kept the bigger picture at all times and managed the project effectively.
 
-Yahya worked tightly with Marco and Stefan to bootstrapped the project before inviting more developers.
+Yahya worked tightly with Marco and Stefan to bootstrap the project before inviting more developers.
 
 ### Daniel [@Fancy11111](https://github.com/Fancy11111)
 `🟢 frontend contributor`

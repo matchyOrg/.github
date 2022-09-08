@@ -19,7 +19,7 @@ Marco implemented over 80% of the application just by himself.
 He took the responsibility of designing the application's architecture and implementing the backend entirely by himself. He first explained his ideas clearly with multiple process diagrams and database schemas that helped us understand the real time processes that this application is built on and then proceeded to implement the Postgres database, Postgres CRON jobs, API via Supabase, Lambda functions, RPCs, DB Constraints etc. After that he almost single handedly implemented all real time features in the frontend. Awesome stuff!
 
 ### Stefan [@stefnotch](https://github.com/stefnotch)
-`🟢 frontend contributor, reviewer`
+`🟢 frontend contributor, project lead`
 
 Stefan is the most knowledgeable frontend developer in the team. He reviewed every single of our pull requests and helped us get a better understanding of advanced Vue.js concepts.
 He is the teams frontend Sensei because he was really patient with newcomers and taught them everything they needed to know about Vue.js.

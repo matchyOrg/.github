@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there!
 We're a team commited to creating the ultimate speed dating experience with our free open source web app [Matchy](https://github.com/matchyOrg/matchy).
 
 Since our app is still in development feel free to put it on your watchlist / give it a star so you stay up to date with the development process!

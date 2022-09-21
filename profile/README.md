@@ -1,7 +1,4 @@
-## Hey there!
-We're a team commited to creating the ultimate speed dating experience with our free open source web app [Matchy](https://github.com/matchyOrg/matchy).
-
-Since our app is still in development feel free to put it on your watchlist / give it a star so you stay up to date with the development process!
+We're a team commited to creating an awesome speed dating experience with our app [Matchy](https://github.com/matchyOrg/matchy).
 
 We really hope that this project brings you joy and helps you make fun memories and lasting relationships.
 
@@ -44,7 +41,7 @@ Daniel has the most experience in the software industry from the people in our t
 <br><br>
 
 
-## 💪 Other Contributors
+## 🌱 Other Contributors
 Other contributors include:
 
 ### Jakob [@jakobsohm](https://jakobsohm.at/)

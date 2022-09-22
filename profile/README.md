@@ -5,8 +5,8 @@ We really hope that this project brings you joy and helps you make fun memories 
 <br><br>
 
 
-## 👨‍💻 The Devs
-The development team is currently composed of the following main contributors:
+## 👨‍💻 Core Contributors
+The core development team is currently composed of the following contributors:
 
 ### Marco [@MJDeligan](https://github.com/MJDeligan)
 `🟢 full stack contributor, project lead`
@@ -33,16 +33,16 @@ He learned a lot from the more experienced developers, kept the bigger picture a
 
 Yahya worked tightly with Marco and Stefan to bootstrap the project before inviting more developers.
 
-### Daniel [@Fancy11111](https://github.com/Fancy11111)
-`🟢 frontend contributor`
-
-Daniel has the most experience in the software industry from the people in our team. He developed essential features reliably and with high quality.
-
 <br><br>
 
 
 ## 🌱 Other Contributors
 Other contributors include:
+
+### Daniel [@Fancy11111](https://github.com/Fancy11111)
+`🟢 frontend contributor`
+
+Daniel has the most experience in the software industry from the people in our team. He developed features reliably and with high quality.
 
 ### Jakob [@jakobsohm](https://jakobsohm.at/)
 `🟢 logo designer`

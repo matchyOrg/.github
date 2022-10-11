@@ -39,7 +39,7 @@ Other contributors include:
 ### Daniel [@Fancy11111](https://github.com/Fancy11111)
 `🟢 frontend contributor`
 
-Daniel has the most experience in the software industry from the people in our team. He developed features reliably and with high quality. He also coached us and gave us valuable feedback in how to improve the UX of the app.
+Daniel has the most experience in the software industry from the people in our team. He developed features reliably and with high quality.
 
 ### Jakob [@jakobsohm](https://jakobsohm.at/)
 `🟢 logo designer`

@@ -39,7 +39,7 @@ Other contributors include:
 ### Daniel [@Fancy11111](https://github.com/Fancy11111)
 `🟢 frontend contributor`
 
-Daniel has the most experience in the software industry from our team. He developed a frontend feature that didn't make it into the final version.
+Daniel has the most experience in the software industry from our team. He developed a frontend feature that sadly didn't make it into the final version.
 
 ### Jakob [@jakobsohm](https://jakobsohm.at/)
 `🟢 logo designer`

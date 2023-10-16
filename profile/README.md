@@ -8,7 +8,7 @@ We really hope that this app brings you joy and helps you make fun memories and 
 
 _👨‍💻 Core team:_
 
-- Marco [@MJDeligan](https://github.com/MJDeligan): set up of advanced Supabase features (CRON, Postgres, RPCs, lambda functions, RPCs, DB constraints, real time synchronization). Marco essentially built the inital working prototype that Stefan and Yahya built upon.
+- Marco [@MJDeligan](https://github.com/MJDeligan): set up of advanced Supabase features (CRON, Postgres, RPCs, lambda functions, RPCs, DB constraints, real time synchronization). Marco essentially implemented the inital working prototype that Stefan and Yahya built upon.
 
 - Stefan [@stefnotch](https://github.com/stefnotch): implemented the whole frontend with yahya - focused especially on optimizing performance, reducing the bundle size, improving security, improving usability by doing user studies.
   

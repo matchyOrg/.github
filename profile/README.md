@@ -8,11 +8,11 @@ We really hope that this app brings you joy and helps you make fun memories and 
 
 _👨‍💻 Core team:_
 
-- Marco [@MJDeligan](https://github.com/MJDeligan): set up of advanced Supabase features (CRON, Postgres, RPCs, lambda functions, RPCs, DB constraints, real time synchronization). Marco essentially implemented the inital working prototype that Stefan and Yahya built upon.
+- Marco [@MJDeligan](https://github.com/MJDeligan): Set up of advanced Supabase features (CRON, Postgres, RPCs, lambda functions, RPCs, DB constraints, real time synchronization). Marco essentially implemented the inital working prototype that Stefan and Yahya built upon.
 
-- Stefan [@stefnotch](https://github.com/stefnotch): implemented the whole frontend with yahya - focused especially on optimizing performance, reducing the bundle size, improving security, improving usability by doing user studies.
+- Stefan [@stefnotch](https://github.com/stefnotch): Implemented the whole frontend with Yahya. Focused especially on optimizing performance, reducing the bundle size, improving security, improving usability by doing user studies.
   
-- Yahya [@sueszli](https://github.com/sueszli): coordinated the team by making the software architecture, database architecture and designing ui mockups. glued together AWS with Supabase and managed the infrastructure. implemented the frontend.
+- Yahya [@sueszli](https://github.com/sueszli): Coordinated the team by designing the software architecture and database architecture with Marco and making UI mockups. Glued together AWS with Supabase and managed the infrastructure. Implemented the frontend with Stefan.
 
 <br><br>
 

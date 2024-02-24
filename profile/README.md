@@ -4,7 +4,7 @@ This is our second attempt based on a previous iteration called [DateWatch](http
 
 We really hope that this app brings you joy and helps you make fun memories and lasting relationships.
 
-<br><br>
+<br>
 
 _👨‍💻 Core team:_
 
@@ -14,7 +14,7 @@ _👨‍💻 Core team:_
   
 - [@sueszli](https://github.com/sueszli): Coordinated the team by designing the software architecture and database architecture with Marco and making UI mockups. Glued together AWS with Supabase and managed the infrastructure. Implemented the frontend with Stefan.
 
-<br><br>
+<br>
 
 _🌱 Contributors:_
 

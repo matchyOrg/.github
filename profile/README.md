@@ -1,16 +1,7 @@
-We're a team commited to creating an awesome speed dating experience with our app [Matchy](https://github.com/matchyOrg/matchy).
+# Matchy
 
-Matchy grew out of a prototype called DateWatch. Its source is in the private [Matchy Legacy repository](https://github.com/matchyOrg/matchy-legacy) (GitHub access required).
+[Matchy](https://github.com/matchyOrg/matchy) is a speed-dating app we built to help people meet. It grew out of DateWatch, a TU Wien prototype now called Matchy Legacy.
 
-We really hope that this app brings you joy and helps you make fun memories and lasting relationships.
+**Team:** [MJDeligan](https://github.com/MJDeligan), [stefnotch](https://github.com/stefnotch), [sueszli](https://github.com/sueszli)
 
-👨‍💻 Core team:
-
-- [@MJDeligan](https://github.com/MJDeligan)
-- [@stefnotch](https://github.com/stefnotch)
-- [@sueszli](https://github.com/sueszli)
-
-🌱 Contributors:
-
-- [@Fancy11111](https://github.com/Fancy11111): bugfix for navbars in mobile view
-- [@jakobsohm](https://jakobsohm.at/): logo design
+**Thanks to:** [Fancy11111](https://github.com/Fancy11111) for mobile navigation fixes and [jakobsohm](https://jakobsohm.at/) for the logo.
